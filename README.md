@@ -1,4 +1,4 @@
-# EtheriumDemoproject
+# etherium-app
 Demo project created using ethereum blockchain , Ganache, Truffle and web3
 
 
@@ -23,4 +23,4 @@ truffle migrate --reset
 npm run dev
 
 5. Your default browser shouuld open with index.html
-# etherium-app
+
